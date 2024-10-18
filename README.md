@@ -29,9 +29,10 @@ Este projeto consiste no uso da plataforma Jupyter Notebook para uso da linguage
 
 
 # Tecnologias utilizadas
-Python
-Jupyter Notebook (Plataforma para uso Python)
-Power BI
+
+- Python
+- Jupyter Notebook (Plataforma para uso Python)
+- Power BI
 
 # Autor
 
